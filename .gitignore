@@ -95,6 +95,9 @@
 !.vscode/*.code-snippets
 **/.vscode/
 
+# Git Options
+.gitlab/*
+
 # Local History for Visual Studio Code
 .history/
 
